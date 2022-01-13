@@ -30,25 +30,25 @@
             android:text="@string/Result"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" android:id="@+id/Result" android:translationY="60dp"
-            tools:text="Kết quả sẽ hiện ở ngay đây!!!"/>
+            tools:text="Kết quả"/>
     <Button
             android:text="@string/cong"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" android:id="@+id/btncong" tools:ignore="DuplicateSpeakableTextCheck"
-            android:translationY="80dp" tools:text="Làm phép cộng"/>
+            android:translationY="80dp" tools:text="cộng"/>
     <Button
             android:text="@string/tru"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" android:id="@+id/btntru" android:translationY="100dp"
-            tools:text="Làm phép trừ"/>
+            tools:text="trừ"/>
     <Button
             android:text="@string/nhan"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" android:id="@+id/btnnhan" android:translationY="120dp"
-            tools:text="Làm phép nhân"/>
+            tools:text="nhân"/>
     <Button
             android:text="@string/chia"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" android:id="@+id/btnchia" android:translationY="140dp"
-            tools:text="Làm phép chia"/>
+            tools:text="chia"/>
 </LinearLayout>
