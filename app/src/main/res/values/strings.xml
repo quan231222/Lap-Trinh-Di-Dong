@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LapTrinhDiDong</string>
+    <string name="Label">TextView</string>
+    <string name="chia">Button</string>
+    <string name="nhan">Button</string>
+    <string name="tru">Button</string>
+    <string name="cong">Button</string>
+    <string name="Result">TextView</string>
+    <string name="Number1">Mời bạn nhập số thứ nhất</string>
+    <string name="Number2">Mời bạn nhập số thứ hai</string>
+</resources>
